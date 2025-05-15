@@ -56,7 +56,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/nagesh-pawar-709b49209" target="_blank"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="50px"></a>
-<a href="https://github.com/nagesh241299/nagesh241299.git(https://github.com/Nagesh241299)"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="50px"></img></a>
+<a href="https://github.com/nagesh241299.git"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="50px"></img></a>
 </p>
 
 ## ❤ Views and Followers
