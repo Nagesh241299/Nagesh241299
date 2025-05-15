@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on *DEVOPS*
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/nagesh24121999)** (replace with your actual portfolio link if you have one)
+- 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/nagesh241299)** (replace with your actual portfolio link if you have one)
 - 📫 How to reach me **nageshpawar241299@gmail.com**
 - ⚡ Fun fact **I am a funny guy**
 
@@ -46,8 +46,8 @@
 <br/>
 
 <p align="left">
-    <a href="https://github.com/nagesh24121999/nagesh24121999.git">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nagesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nagesh24121999&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/nagesh241299/nagesh241299.git">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nagesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nagesh241299&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -56,11 +56,11 @@
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/nagesh-pawar-709b49209" target="_blank"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="50px"></a>
-<a href="https://github.com/nagesh24121999/nagesh24121999.git"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="50px"></img></a>
+<a href="https://github.com/nagesh241299/nagesh241299.git"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="50px"></img></a>
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/nagesh24121999/github-profile-views-counter">
+<a href="https://github.com/nagesh241299/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nagesh24121999">
 </a>
 <a href="https://github.com/nagesh24121999?tab=followers"><img src="https://img.shields.io/github/followers/nagesh24121999?label=Followers&style=social" alt="GitHub Badge"></a>
