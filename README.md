@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on *DEVOPS*
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/nagesh241299)** (replace with your actual portfolio link if you have one)
+- 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/nagesh241299)**
 - 📫 How to reach me **nageshpawar241299@gmail.com**
 - ⚡ Fun fact **I am a funny guy**
 
